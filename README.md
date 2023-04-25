@@ -1,5 +1,7 @@
 # blueLines
 
+Copy the .js file and paste into the editor playground at https://editor.p5js.org or open the .html file for the experience in a web browser.
+
 This p5.js code creates an interactive animation of 100 moving curves with light blue flares that appear and trail when the curves hit the edge of the canvas and then shrink over time. Here's the code broken down:
 
 Variables angle, curves, and flares are defined globally. angle is initialized to 0, while curves and flares are empty arrays.
